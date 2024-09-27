@@ -1,3 +1,5 @@
+package chapter2.dogpoo;
+
 class Dog {
 	int size;
 	String breed;

@@ -1,3 +1,5 @@
+package chapter2.dogpoo;
+
 class DogTestDrive {
 	public static void main(String[] args) {
 		Dog d = new Dog();
