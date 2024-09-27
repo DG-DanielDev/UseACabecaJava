@@ -1,5 +1,7 @@
 # Personal Annotations for Head First! Java
 
+Não enviar commit (.gitignore)
+
 ## Source and href
  
 [//]: # (LINK INUTILIZÁVEL: )
